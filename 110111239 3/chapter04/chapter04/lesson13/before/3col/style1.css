@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{
+  margin:0;
+  padding:0;
+}
+#wrap{
+  width: 800px;
+  margin: 20px auto;
+  background-color: rgb(231, 101, 119);
+}
+
+#header{
+  background-color: beige;
+}
+
+#cont1{
+  background-color: rgb(129, 129, 231);
+  float: left;
+  width: 250px;
+}
+#cont2{
+  background-color: aquamarine;
+  float: left;
+  width: 250px;
+  margin-left: 30px;
+}
+#cont3{
+  background-color: bisque;
+  float: right;
+  width: 250px;
+}
+#footer{
+  background-color: rgb(141, 128, 196);
+  clear: both;
+}

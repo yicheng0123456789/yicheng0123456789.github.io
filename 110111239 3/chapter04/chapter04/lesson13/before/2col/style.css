@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{
+  margin:0;
+  padding:0;
+}
+
+#wrap{
+  width: 800px;
+  margin: 20px auto ;
+  background-color: rgb(233, 140, 18);
+}
+
+header{
+  background-color:aquamarine;
+}
+
+main{
+  background-color: bisque;
+  float: right;
+  width:500px;
+}
+
+#side{
+  background-color: blue;
+  float: left;
+  width:280px;
+}
+
+#footer{
+  background-color: brown;
+  clear:both;
+}
